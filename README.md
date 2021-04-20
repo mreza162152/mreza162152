@@ -7,9 +7,7 @@ I'm also looking to collaborate on Django and Machine Learning.<br>
 
 <hr>
 
-Feel free to knock me :
-
-[LinkedIn](https://www.linkedin.com/in/md-mahmudur-reza/)
+Feel free to knock me : [LinkedIn](https://www.linkedin.com/in/md-mahmudur-reza/)
 
 
 <!---
