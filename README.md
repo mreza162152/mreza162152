@@ -1,6 +1,8 @@
 #Howdy! 👋 I'm Reza
 
-I'm a web developer. Have interset in Python 🐍. Currently learning REST API.
+I'm a web developer.
+Have interset in Python 🐍. 
+Currently learning REST API.
 I'm also looking to collaborate on Django and Machine Learning.
 
 <hr>
