@@ -1,9 +1,9 @@
-<h2>Howdy! 👋 I'm Reza</h2>
+<h1>Howdy! 👋 I'm Reza</h1>
 
-I'm a web developer.
-Have interset in Python 🐍. 
-Currently learning REST API.
-I'm also looking to collaborate on Django and Machine Learning.
+I'm a web developer. <br>
+Have interset in Python 🐍. <br>
+Currently learning REST API. <br>
+I'm also looking to collaborate on Django and Machine Learning.<br>
 
 <hr>
 
