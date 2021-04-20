@@ -9,6 +9,8 @@ I'm also looking to collaborate on Django and Machine Learning.<br>
 
 Feel free to shoot me a message.
 
+![https://www.linkedin.com/in/md-mahmudur-reza/](https://image.flaticon.com/icons/png/512/174/174857.png)
+
 
 <!---
 mreza162152/mreza162152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
