@@ -6,6 +6,13 @@
 - 🤝 I'm also looking to collaborate on Django and Machine Learning.<br>
 
 <hr>
+### Connect with me:
+
+[<img align="left" alt="Reza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Reza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<hr>
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mreza162152&show_icons=true&theme=dark&line_height=40">
