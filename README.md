@@ -28,3 +28,5 @@ Feel free to knock me : [LinkedIn](https://www.linkedin.com/in/md-mahmudur-reza/
 mreza162152/mreza162152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[twitter]: https://twitter.com/AyonChowdhury27
+[linkedin]: https://linkedin.com/in/md-mahmudur-reza
