@@ -1,4 +1,4 @@
-<h1>Howdy! 👋 I'm Reza</h1>
+<h2>Howdy! 👋 I'm a Python Developer and Machine Learning Engineer</h2>
 
 I'm a web developer. <br>
 Have interset in Python 🐍. <br>
