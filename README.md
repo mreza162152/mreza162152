@@ -6,7 +6,7 @@
 - 🤝 I'm also looking to collaborate on Django and Machine Learning.<br>
 
 <hr>
-### Connect with me:
+<h4> Connect with me:</h4>
 
 [<img align="left" alt="Reza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Reza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +21,6 @@
 
 <hr>
 
-Feel free to knock me : [LinkedIn](https://www.linkedin.com/in/md-mahmudur-reza/)
 
 
 <!---
