@@ -1,6 +1,6 @@
 <h2>Howdy! 👋 I'm a Python Developer and Machine Learning Engineer</h2>
 
-- 🌍 I'm currently working on web backend useing Django <br>
+- 🌍 I'm currently working on web backend using Django <br>
 - 🐍 Have interset in Python . <br>
 - 👌 Currently learning REST API. <br>
 - 🤝 I'm also looking to collaborate on Django and Machine Learning.<br>
