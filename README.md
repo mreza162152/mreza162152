@@ -9,7 +9,7 @@
 <h4> Connect with me:</h4>
 
 [<img align="left" alt="Reza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Reza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Reza | LinkedIn" width="22px" src="https://github.com/mreza162152/mreza162152/blob/main/icon/lin3.png" />][linkedin]
 
 <br>
 
